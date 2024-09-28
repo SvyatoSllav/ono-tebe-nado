@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Добавил конфиги">
+    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Реализовал секцию лоты">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     "JavaScript Debug.index.html.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "code.cleanup.on.save": "true",
-    "git-widget-placeholder": "feature/cover-section",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/svyat/dev/ono-tebe-nado",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -103,6 +103,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Реализация стилей и разметки секции header" />
     <MESSAGE value="Добавил конфиги" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил конфиги" />
+    <MESSAGE value="Конфиги" />
+    <MESSAGE value="Реализовал секцию лоты" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализовал секцию лоты" />
   </component>
 </project>
