@@ -23,6 +23,9 @@
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -44,7 +47,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,6 +80,8 @@
       <workItem from="1727026304128" duration="8000" />
       <workItem from="1727521400983" duration="3981000" />
       <workItem from="1727528903962" duration="6756000" />
+      <workItem from="1727603169071" duration="171000" />
+      <workItem from="1727603344802" duration="3425000" />
     </task>
     <task id="LOCAL-00001" summary="Реализация стилей и разметки секции header">
       <option name="closed" value="true" />
