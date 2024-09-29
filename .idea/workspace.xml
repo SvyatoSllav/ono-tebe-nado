@@ -7,7 +7,7 @@
     <option name="rewriteBookmarkType" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Отцентровал логотип относительно headder, а не всей страницы" />
+    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Фикс тестов" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +80,7 @@
       <workItem from="1727521400983" duration="3981000" />
       <workItem from="1727528903962" duration="6756000" />
       <workItem from="1727603169071" duration="171000" />
-      <workItem from="1727603344802" duration="5760000" />
+      <workItem from="1727603344802" duration="6255000" />
     </task>
     <task id="LOCAL-00001" summary="Реализация стилей и разметки секции header">
       <option name="closed" value="true" />
@@ -130,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727608979445</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Фикс тестов">
+      <option name="closed" value="true" />
+      <created>1727609271324</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727609271324</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +153,7 @@
     <MESSAGE value="Реализовал секцию футер, поправил лишние стили" />
     <MESSAGE value="Поменял видимость репозитория" />
     <MESSAGE value="Отцентровал логотип относительно headder, а не всей страницы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Отцентровал логотип относительно headder, а не всей страницы" />
+    <MESSAGE value="Фикс тестов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Фикс тестов" />
   </component>
 </project>
