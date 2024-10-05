@@ -7,7 +7,11 @@
     <option name="rewriteBookmarkType" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Фикс тестов" />
+    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Убрал лишнюю обёркту для хэдера">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.index.html.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "code.cleanup.on.save": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/svyat/dev/ono-tebe-nado",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/svyat/dev/ono-tebe-nado&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ono-tebe-nado/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -80,7 +84,9 @@
       <workItem from="1727521400983" duration="3981000" />
       <workItem from="1727528903962" duration="6756000" />
       <workItem from="1727603169071" duration="171000" />
-      <workItem from="1727603344802" duration="6255000" />
+      <workItem from="1727603344802" duration="6833000" />
+      <workItem from="1727624315068" duration="361000" />
+      <workItem from="1728124399377" duration="1978000" />
     </task>
     <task id="LOCAL-00001" summary="Реализация стилей и разметки секции header">
       <option name="closed" value="true" />
@@ -138,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727609271324</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Фикс отступов с ссылок с подчеркиванием">
+      <option name="closed" value="true" />
+      <created>1727609831956</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727609831956</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +168,8 @@
     <MESSAGE value="Поменял видимость репозитория" />
     <MESSAGE value="Отцентровал логотип относительно headder, а не всей страницы" />
     <MESSAGE value="Фикс тестов" />
-    <option name="LAST_COMMIT_MESSAGE" value="Фикс тестов" />
+    <MESSAGE value="Фикс отступов с ссылок с подчеркиванием" />
+    <MESSAGE value="Убрал лишнюю обёркту для хэдера" />
+    <option name="LAST_COMMIT_MESSAGE" value="Убрал лишнюю обёркту для хэдера" />
   </component>
 </project>

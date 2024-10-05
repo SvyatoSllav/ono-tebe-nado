@@ -57,17 +57,11 @@
 /* HEADER styles */
 .header {
   width: 100%;
-  padding: 92px 24px 96px;
+  padding: 136px 52px 0 52.52px;
+  margin-bottom: 96px;
   display: flex;
   align-items: center;
   position: relative;
-}
-
-.header__wrapper {
-  width: 100%;
-  padding: 5px 28px 2px 26.52px;
-  display: flex;
-  align-items: center;
   justify-content: space-between;
 }
 
@@ -92,9 +86,6 @@
 }
 
 .header__logo {
-  position: absolute;
-  top: 92px;
-  left: 50%;
   transform: translateX(-50%);
   width: 145px;
   height: 105px;
