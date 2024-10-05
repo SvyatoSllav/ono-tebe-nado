@@ -7,7 +7,7 @@
     <option name="rewriteBookmarkType" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="Убрал лишнюю обёркту для хэдера">
+    <list default="true" id="eee530a2-ff03-4cf8-8b62-eacdf5fe6b1a" name="Changes" comment="заменил целочисленные значения классов на смысловые">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
@@ -86,7 +86,7 @@
       <workItem from="1727603169071" duration="171000" />
       <workItem from="1727603344802" duration="6833000" />
       <workItem from="1727624315068" duration="361000" />
-      <workItem from="1728124399377" duration="3991000" />
+      <workItem from="1728124399377" duration="5493000" />
     </task>
     <task id="LOCAL-00001" summary="Реализация стилей и разметки секции header">
       <option name="closed" value="true" />
@@ -168,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728131950256</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="заменил целочисленные значения классов на смысловые">
+      <option name="closed" value="true" />
+      <created>1728133497341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728133497341</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     <MESSAGE value="Фикс тестов" />
     <MESSAGE value="Фикс отступов с ссылок с подчеркиванием" />
     <MESSAGE value="Убрал лишнюю обёркту для хэдера" />
-    <option name="LAST_COMMIT_MESSAGE" value="Убрал лишнюю обёркту для хэдера" />
+    <MESSAGE value="заменил целочисленные значения классов на смысловые" />
+    <option name="LAST_COMMIT_MESSAGE" value="заменил целочисленные значения классов на смысловые" />
   </component>
 </project>
