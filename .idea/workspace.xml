@@ -86,7 +86,7 @@
       <workItem from="1727603169071" duration="171000" />
       <workItem from="1727603344802" duration="6833000" />
       <workItem from="1727624315068" duration="361000" />
-      <workItem from="1728124399377" duration="2615000" />
+      <workItem from="1728124399377" duration="3991000" />
     </task>
     <task id="LOCAL-00001" summary="Реализация стилей и разметки секции header">
       <option name="closed" value="true" />
@@ -160,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728131933497</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Убрал лишнюю обёркту для хэдера">
+      <option name="closed" value="true" />
+      <created>1728131950256</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1728131950256</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
